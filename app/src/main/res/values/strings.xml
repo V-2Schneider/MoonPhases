@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MoonPhases</string>
+    <string name="pelnie_w_roku">Pełnie w roku</string>
+    <string name="nastepna_pelnia">Następna pełnia:</string>
+    <string name="fazy_ksiezyca">Fazy Księżyca</string>
+    <string name="poprzedni_now">Poprzedni nów:</string>
+    <string name="dzisiaj_x">Dzisiaj: X%</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_all_year_and_settings">AllYearAndSettings</string>
 </resources>
